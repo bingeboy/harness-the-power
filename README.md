@@ -1,9 +1,9 @@
 Harness The Power
 =================
 
-![image](http://2.bp.blogspot.com/-pDGGbie3APs/UBdJwfGRxuI/AAAAAAAAAJw/3Xr4vpYx-4Y/s640/alex-grey-oversoul.jpg)
+![image](./power.png)
 
-Work Demo covering:
+##Work Demo covering:
 
 * History of Node
 * Where Node is today
