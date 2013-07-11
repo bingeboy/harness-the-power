@@ -3,7 +3,7 @@ Harness The Power
 
 ![image](./power.png)
 
-##Work Demo covering:
+##Work Demo Covering:
 
 * History of Node
 * Where Node is today
