@@ -17,7 +17,7 @@ Please follow along in:
 `$ ~/presentation/index.html`
 
 npm init screencast:
-(https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](http://youtu.be/vt5fpE0bzSY)
-)
+(http://youtu.be/vt5fpE0bzSY)
+
 
 
