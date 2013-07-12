@@ -17,7 +17,7 @@ Please follow along in:
 `$ ~/presentation/index.html`
 
 npm init screencast:
-(http://youtu.be/vt5fpE0bzSY)
+(http://youtu.be/CXjM9nsiKiY)
 
 
 
